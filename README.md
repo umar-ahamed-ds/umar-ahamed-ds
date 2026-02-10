@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Projects I'm Working On
-- 🔧 [AgroTrack – Smart Farm & Livestock Manager](#) *(in progress)*  
+- 🔧 [FarmNex – Smart Farm & Livestock Management System](#) 
 - 🚗 [Automated Parking System](#)
 - 🚙 [Online Vehicle Rental System](#)
 
