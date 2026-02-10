@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Umar Ahamed</h1>
-<h3 align="center">2nd Year Undergraduate | Data Science Specialization | SLIIT</h3>
+<h3 align="center">3rd Year Undergraduate | Data Science Specialization | SLIIT</h3>
 
 ---
 
